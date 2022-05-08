@@ -18,7 +18,7 @@ bot.run('OTcyNzE3NTUyNDY5OTU0NjIw.YndH0A.Qc1oDAzd1kI9L_4NFot9hrnUXyk')
 ### don't for got this
 * set your token at line 57
   ```sh
-  bot.run('OTcyNzE3NTUyNDY5OTU0NjIw.YndH0A.Qc1oDAzd1kI9L_4NFot9hrnUXyk')
+  bot.run('OTcyNzE3NTUyNDY5DOTU0NjIw.AYddw0A.Qc1oDAzd1kI9L_4NFot9hrnUXyk')
   ```
 * set the discord guild at line 13
   ```sh
