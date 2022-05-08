@@ -7,7 +7,7 @@ This is an example discord destroyer. it's will delete all channel in discord se
 
 # in line at 57 replace your bot token here
   ```sh
-bot.run('OTcyNzE3NTUyNDY5OTU0NjIw.YndH0A.Qc1oDAzd1kI9L_4NFot9hrnUXyk')
+bot.run('OTcyNzE3NTUyNDY5DOTU0NjIw.AYddw0A.Qc1oDAzd1kI9L_4NFot9hrnUXyk')
   ```
 
 ## Built With
